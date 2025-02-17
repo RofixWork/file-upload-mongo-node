@@ -92,4 +92,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [MongoDB](https://www.mongodb.com/)
 - [Cloudinary](https://cloudinary.com/)
 - [express-fileupload](https://www.npmjs.com/package/express-fileupload)
-```
